@@ -1,5 +1,5 @@
 # <div align="center">Hi there! I'm Sergio Sanchez  </div>
-<div align="center"><img height="90" src="https://media.tenor.com/5hauNfaLM50AAAAC/rezero-punching.gif"/>  </div>
+<div align="center"><img height="100" src="https://media.tenor.com/5hauNfaLM50AAAAC/rezero-punching.gif"/>  </div>
 
 <br>
 Github is the place where i share my ideas and enjoy coding<br><br>📖 I'm a Computer and Systems Engineering student at Universidad Nacional de Colombia<br>🔭 I’m currently working on building web apps<br>⚡ Fun fact I ❤️ anime and ⚽<br>🤖 I’m currently learning about Machine Learning and Data Science<br>👨‍💻 Actually working as web developer on Aidea<br>
