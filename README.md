@@ -1,7 +1,8 @@
-# Hi there 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sesanchezo) 
+# <div align="center">Hi there! I'm Sergio Sanchez  </div>
+<div align="center"><img height="70" src="https://media.tenor.com/5hauNfaLM50AAAAC/rezero-punching.gif"/>  </div>
 
-Github is the place where i share my ideas and enjoy coding!<br><br>📖 I'm a Computer and Systems Engineering student at Universidad Nacional de Colombia<br>🔭 I’m currently working on building web apps<br>⚡ Fun fact I ❤️ Anime and ⚽<br>🤖 I’m currently learning about Machine Learning ad Data Science<br>🖥️ Actually working as web developer on Aidea<br>
+<br>
+Github is the place where i share my ideas and enjoy coding<br><br>📖 I'm a Computer and Systems Engineering student at Universidad Nacional de Colombia<br>🔭 I’m currently working on building web apps<br>⚡ Fun fact I ❤️ anime and ⚽<br>🤖 I’m currently learning about Machine Learning and Data Science<br>👨‍💻 Actually working as web developer on Aidea<br>
 
 
 # 💻 Tech Stack:
@@ -9,5 +10,9 @@ Github is the place where i share my ideas and enjoy coding!<br><br>📖 I'm a C
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+
+#### Interested? Contact me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sesanchezo)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
