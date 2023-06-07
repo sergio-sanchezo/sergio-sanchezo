@@ -2,7 +2,17 @@
 <!-- <div align="center"><img height="100" src="https://media.tenor.com/5hauNfaLM50AAAAC/rezero-punching.gif"/>  </div> -->
 
 <br>
-Github is the place where i share my ideas and enjoy coding <i>(also breaking some stuff)</i> <br><br>📖 I'm a Computer and Systems Engineering student at Universidad Nacional de Colombia<br>🔭 I’m currently working on building web apps<br>⚡ Fun fact I ❤️ anime and ⚽<br>🤖 I’m currently learning about Machine Learning and Data Science<br>👨‍💻 Actually working as web developer on Aidea<br>
+Github is the place where i share my ideas and enjoy coding <i>(also breaking some stuff)</i>
+
+- 📖 A passionate full-stack software developer from Colombia! 
+
+- 🔭 I am currently focused on developing web applications using the MERN stack.
+
+- ⚡ Fun fact I ❤️ anime and ⚽
+
+- 🤖 At the moment, I am engaged in the study and exploration of Machine Learning and Data Science.
+
+- 👨‍💻 Actually working as web developer on Aidea<br>
 <br>
 
 # 💻 Tech Stack:
