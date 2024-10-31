@@ -12,7 +12,7 @@ Github is the place where i share my ideas and enjoy coding <i>(also breaking so
 
 - 🤖 At the moment, I am engaged in the study and exploration of Machine Learning and Data Science.
 
-- 👨‍💻 Actually working as web developer on Aidea<br>
+- 👨‍💻 Actually working as Prompt Engineer on SunDevs<br>
 <br>
 
 # 💻 Tech Stack:
