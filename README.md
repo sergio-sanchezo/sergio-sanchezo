@@ -2,7 +2,7 @@
 <!-- <div align="center"><img height="100" src="https://media.tenor.com/5hauNfaLM50AAAAC/rezero-punching.gif"/>  </div> -->
 
 <br>
-Github is the place where i share my ideas and enjoy coding <i>(also breaking some stuff)</i>
+Github is the place where I share my ideas and enjoy coding <i>(also breaking some stuff)</i>
 
 - 📖 A passionate full-stack software developer from Colombia! 
 
@@ -12,7 +12,6 @@ Github is the place where i share my ideas and enjoy coding <i>(also breaking so
 
 - 🤖 At the moment, I am engaged in the study and exploration of Machine Learning and Data Science.
 
-- 👨‍💻 Actually working as Prompt Engineer on SunDevs<br>
 <br>
 
 # 💻 Tech Stack:
